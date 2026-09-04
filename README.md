@@ -20,65 +20,31 @@ Focused on automotive cybersecurity, embedded systems and software test & valida
 
 <br/>
 
-## 🛠️ Skills
+## Skills
 
-**Languages**
-![C](https://img.shields.io/badge/C-2b2d42?style=flat-square&logo=c&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-2b2d42?style=flat-square)
-![C++](https://img.shields.io/badge/C++-2b2d42?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2b2d42?style=flat-square&logo=python&logoColor=white)
-![Qt/QML](https://img.shields.io/badge/Qt%2FQML-2b2d42?style=flat-square&logo=qt&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-2b2d42?style=flat-square&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-2b2d42?style=flat-square&logo=openjdk&logoColor=white)
+<div align="center">
 
-**Embedded Systems**
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-1b998b?style=flat-square)
-![Bootloader](https://img.shields.io/badge/Bootloader-1b998b?style=flat-square)
-![Bare--metal](https://img.shields.io/badge/Bare--metal-1b998b?style=flat-square)
-![STM32](https://img.shields.io/badge/STM32-1b998b?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![ESP32--S3](https://img.shields.io/badge/ESP32--S3-1b998b?style=flat-square&logo=espressif&logoColor=white)
-![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-1b998b?style=flat-square&logo=linux&logoColor=white)
+![C](https://img.shields.io/badge/C-24292f?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-24292f?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-24292f?style=flat-square&logo=qt&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-24292f?style=flat-square&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-24292f?style=flat-square&logo=openjdk&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-24292f?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Espressif](https://img.shields.io/badge/ESP32-24292f?style=flat-square&logo=espressif&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-24292f?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white)
 
-**Automotive Protocols**
-![CAN Bus](https://img.shields.io/badge/CAN%20Bus-457b9d?style=flat-square)
-![UDS ISO 14229](https://img.shields.io/badge/UDS%20(ISO%2014229)-457b9d?style=flat-square)
-![ISO-TP](https://img.shields.io/badge/ISO--TP-457b9d?style=flat-square)
-![OBD-II](https://img.shields.io/badge/OBD--II-457b9d?style=flat-square)
-![UART](https://img.shields.io/badge/UART-457b9d?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-457b9d?style=flat-square)
-![I2C](https://img.shields.io/badge/I2C-457b9d?style=flat-square)
+</div>
 
-**Automotive Cybersecurity**
-![ISO/SAE 21434](https://img.shields.io/badge/ISO%2FSAE%2021434-9d0208?style=flat-square)
-![UNECE R155/R156](https://img.shields.io/badge/UNECE%20R155%2FR156-9d0208?style=flat-square)
-![TARA](https://img.shields.io/badge/TARA%20%2F%20Threat%20Modeling-9d0208?style=flat-square)
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-9d0208?style=flat-square)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-9d0208?style=flat-square)
-![CAN Fuzzing & Spoofing](https://img.shields.io/badge/CAN%20Fuzzing%20%26%20Spoofing-9d0208?style=flat-square)
-![Secure Boot / OTA](https://img.shields.io/badge/Secure%20Boot%20%2F%20OTA-9d0208?style=flat-square)
-![Gateway Authorization](https://img.shields.io/badge/Gateway%20Authorization-9d0208?style=flat-square)
-
-**Security & Cryptography**
-![HSM](https://img.shields.io/badge/HSM-6a4c93?style=flat-square)
-![PKI/KMS](https://img.shields.io/badge/PKI%2FKMS-6a4c93?style=flat-square)
-![AES](https://img.shields.io/badge/AES-6a4c93?style=flat-square)
-![RSA](https://img.shields.io/badge/RSA-6a4c93?style=flat-square)
-![ECDSA](https://img.shields.io/badge/ECDSA-6a4c93?style=flat-square)
-
-**Test & Validation**
-![Requirement-Based Testing](https://img.shields.io/badge/Requirement--Based%20Testing-6c757d?style=flat-square)
-![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-6c757d?style=flat-square)
-![ASPICE Traceability](https://img.shields.io/badge/ASPICE%20Traceability-6c757d?style=flat-square)
-![Regression Testing](https://img.shields.io/badge/Regression%20Testing-6c757d?style=flat-square)
-
-**Tools & Platforms**
-![Vector CANalyzer/CANoe](https://img.shields.io/badge/Vector%20CANalyzer%2FCANoe-343a40?style=flat-square)
-![PeakCAN](https://img.shields.io/badge/PeakCAN-343a40?style=flat-square)
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-343a40?style=flat-square)
-![Keil](https://img.shields.io/badge/Keil-343a40?style=flat-square)
-![MATLAB/Simulink](https://img.shields.io/badge/MATLAB%2FSimulink-343a40?style=flat-square&logo=simulink&logoColor=white)
-![Git](https://img.shields.io/badge/Git-343a40?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-343a40?style=flat-square&logo=linux&logoColor=white)
+| | |
+|:--|:--|
+| **Embedded Systems** | Embedded C · FreeRTOS · Bootloader · Bare-metal & interrupt-driven firmware · STM32 (Cortex-M3/M4) · ESP32-S3 · Embedded Linux |
+| **Automotive Protocols** | CAN Bus · UDS (ISO 14229) · ISO-TP · OBD-II · UART · SPI · I2C |
+| **Automotive Cybersecurity** | ISO/SAE 21434 · UNECE R155/R156 (CSMS/SUMS) · TARA & threat modeling · Penetration testing · Reverse engineering · CAN fuzzing & spoofing · Secure Boot & Secure OTA · Gateway authorization |
+| **Security & Cryptography** | HSM · PKI/KMS · AES · RSA · ECDSA |
+| **Test & Validation** | Requirement-based testing · Test case design & execution · ASPICE traceability · Regression testing |
+| **Tools & Platforms** | Vector CANalyzer/CANoe · PeakCAN · STM32CubeIDE · Keil · MATLAB/Simulink & Stateflow |
 
 <br/>
 
@@ -86,51 +52,39 @@ Focused on automotive cybersecurity, embedded systems and software test & valida
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 <a href="https://github.com/mrtclk2/CAN-UDS-TOOLKIT">
-
-### CAN-UDS Toolkit
-
-Parses CAN logs, generates UDS service requests, inspects responses, and simulates diagnostic scenarios for in-vehicle CAN/UDS testing.
-
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=CAN-UDS-TOOLKIT&theme=dark&hide_border=true&bg_color=0d1117">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=CAN-UDS-TOOLKIT&hide_border=true" width="100%"/>
+</picture>
 </a>
-
-`Python` `CAN Bus` `UDS`
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 <a href="https://github.com/mrtclk2/CAN-UDS-Fuzzing-and-Spoofing-Simulator">
-
-### CAN-UDS Fuzzing & Spoofing Simulator
-
-Educational toolkit for automotive protocol fuzzing — CAN/UDS fuzzing and spoofing scripts for security research and training.
-
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=CAN-UDS-Fuzzing-and-Spoofing-Simulator&theme=dark&hide_border=true&bg_color=0d1117">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=CAN-UDS-Fuzzing-and-Spoofing-Simulator&hide_border=true" width="100%"/>
+</picture>
 </a>
-
-`Python` `CAN Bus` `Cybersecurity`
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 <a href="https://github.com/mrtclk2/UDS_DID_Reader">
-
-### UDS DID Reader
-
-Embedded diagnostic desktop tool implementing UDS over ISO-TP for DID reading, raw protocol parsing, and secure system analysis.
-
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=UDS_DID_Reader&theme=dark&hide_border=true&bg_color=0d1117">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=UDS_DID_Reader&hide_border=true" width="100%"/>
+</picture>
 </a>
-
-`Qt` `C++`
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 <a href="https://github.com/mrtclk2/fota-vcu-firmware">
-
-### Secure FOTA Gateway / VCU Firmware
-
-Secure architecture for delivering ECU firmware updates over BLE/Wi-Fi. Separates diagnostic and update flows, handles unreliable wireless transfer with buffering/retry logic, and covers integrity verification, rollback-safety, pairing trust and replay-protection.
-
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=fota-vcu-firmware&theme=dark&hide_border=true&bg_color=0d1117">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=fota-vcu-firmware&hide_border=true" width="100%"/>
+</picture>
 </a>
-
-`C` `CAN Bus` `UDS` `Embedded Linux`
 </td>
 </tr>
 </table>
