@@ -82,37 +82,58 @@ Focused on automotive cybersecurity, embedded systems and software test & valida
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔐 [CAN-UDS Toolkit](https://github.com/mrtclk2/CAN-UDS-TOOLKIT)
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mrtclk2/CAN-UDS-TOOLKIT">
+
+### CAN-UDS Toolkit
+
 Parses CAN logs, generates UDS service requests, inspects responses, and simulates diagnostic scenarios for in-vehicle CAN/UDS testing.
+
+</a>
+
 `Python` `CAN Bus` `UDS`
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mrtclk2/CAN-UDS-Fuzzing-and-Spoofing-Simulator">
 
-[![Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrtclk2/CAN-UDS-TOOLKIT)
+### CAN-UDS Fuzzing & Spoofing Simulator
 
----
-
-### 🧪 [CAN-UDS Fuzzing & Spoofing Simulator](https://github.com/mrtclk2/CAN-UDS-Fuzzing-and-Spoofing-Simulator)
 Educational toolkit for automotive protocol fuzzing — CAN/UDS fuzzing and spoofing scripts for security research and training.
+
+</a>
+
 `Python` `CAN Bus` `Cybersecurity`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mrtclk2/UDS_DID_Reader">
 
-[![Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrtclk2/CAN-UDS-Fuzzing-and-Spoofing-Simulator)
+### UDS DID Reader
 
----
-
-### 📡 [UDS DID Reader](https://github.com/mrtclk2/UDS_DID_Reader)
 Embedded diagnostic desktop tool implementing UDS over ISO-TP for DID reading, raw protocol parsing, and secure system analysis.
+
+</a>
+
 `Qt` `C++`
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mrtclk2/fota-vcu-firmware">
 
-[![Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrtclk2/UDS_DID_Reader)
+### Secure FOTA Gateway / VCU Firmware
 
----
+Secure architecture for delivering ECU firmware updates over BLE/Wi-Fi. Separates diagnostic and update flows, handles unreliable wireless transfer with buffering/retry logic, and covers integrity verification, rollback-safety, pairing trust and replay-protection.
 
-### 📲 [Secure FOTA Gateway / VCU Firmware](https://github.com/mrtclk2/fota-vcu-firmware)
-Secure architecture for delivering ECU firmware updates over BLE/Wi-Fi. Separates diagnostic and update flows, handles unreliable wireless transfer with buffering and retry logic, and covers integrity verification, rollback-safety, pairing trust and replay-protection.
+</a>
+
 `C` `CAN Bus` `UDS` `Embedded Linux`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrtclk2/fota-vcu-firmware)
+</td>
+</tr>
+</table>
 
 <br/>
 
