@@ -54,36 +54,24 @@ Focused on automotive cybersecurity, embedded systems and software test & valida
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/mrtclk2/CAN-UDS-TOOLKIT">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=CAN-UDS-TOOLKIT&theme=dark&hide_border=true&bg_color=0d1117">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=CAN-UDS-TOOLKIT&hide_border=true" width="100%"/>
-</picture>
+<img src="assets/can-uds-toolkit.svg" width="100%"/>
 </a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/mrtclk2/CAN-UDS-Fuzzing-and-Spoofing-Simulator">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=CAN-UDS-Fuzzing-and-Spoofing-Simulator&theme=dark&hide_border=true&bg_color=0d1117">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=CAN-UDS-Fuzzing-and-Spoofing-Simulator&hide_border=true" width="100%"/>
-</picture>
+<img src="assets/can-uds-fuzzing-spoofing.svg" width="100%"/>
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/mrtclk2/UDS_DID_Reader">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=UDS_DID_Reader&theme=dark&hide_border=true&bg_color=0d1117">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=UDS_DID_Reader&hide_border=true" width="100%"/>
-</picture>
+<img src="assets/uds-did-reader.svg" width="100%"/>
 </a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/mrtclk2/fota-vcu-firmware">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=fota-vcu-firmware&theme=dark&hide_border=true&bg_color=0d1117">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtclk2&repo=fota-vcu-firmware&hide_border=true" width="100%"/>
-</picture>
+<img src="assets/fota-vcu-firmware.svg" width="100%"/>
 </a>
 </td>
 </tr>

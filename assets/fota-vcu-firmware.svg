@@ -1,0 +1,21 @@
+<svg width="440" height="170" viewBox="0 0 440 170" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="438" height="168" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="24" y="33" width="10" height="10" rx="2" fill="#58a6ff"/>
+  <text x="42" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700" fill="#e6edf3">Secure FOTA Gateway / VCU Firmware</text>
+  <text font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8b949e">
+    <tspan x="24" y="72">Secure BLE/Wi-Fi ECU firmware updates with</tspan>
+    <tspan x="24" y="92">rollback-safe, replay-protected delivery.</tspan>
+  </text>
+  <line x1="24" y1="110" x2="416" y2="110" stroke="#21262d" stroke-width="1"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">
+    <rect x="24" y="124" width="31" height="24" rx="12" fill="none" stroke="#30363d"/>
+    <text x="39.5" y="140" text-anchor="middle">C</text>
+    <rect x="65" y="124" width="74" height="24" rx="12" fill="none" stroke="#30363d"/>
+    <text x="102" y="140" text-anchor="middle">CAN Bus</text>
+    <rect x="149" y="124" width="46" height="24" rx="12" fill="none" stroke="#30363d"/>
+    <text x="172" y="140" text-anchor="middle">UDS</text>
+    <rect x="205" y="124" width="125" height="24" rx="12" fill="none" stroke="#30363d"/>
+    <text x="267.5" y="140" text-anchor="middle">Embedded Linux</text>
+  </g>
+  <text x="416" y="158" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#58a6ff">View Repository &#8594;</text>
+</svg>

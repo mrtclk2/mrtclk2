@@ -1,0 +1,19 @@
+<svg width="440" height="170" viewBox="0 0 440 170" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="438" height="168" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="24" y="33" width="10" height="10" rx="2" fill="#58a6ff"/>
+  <text x="42" y="41" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#e6edf3">CAN-UDS Fuzzing &amp; Spoofing Simulator</text>
+  <text font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8b949e">
+    <tspan x="24" y="72">Educational toolkit for automotive CAN/UDS</tspan>
+    <tspan x="24" y="92">fuzzing &amp; spoofing research.</tspan>
+  </text>
+  <line x1="24" y1="110" x2="416" y2="110" stroke="#21262d" stroke-width="1"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">
+    <rect x="24" y="124" width="67" height="24" rx="12" fill="none" stroke="#30363d"/>
+    <text x="57.5" y="140" text-anchor="middle">Python</text>
+    <rect x="101" y="124" width="74" height="24" rx="12" fill="none" stroke="#30363d"/>
+    <text x="138" y="140" text-anchor="middle">CAN Bus</text>
+    <rect x="185" y="124" width="118" height="24" rx="12" fill="none" stroke="#30363d"/>
+    <text x="244" y="140" text-anchor="middle">Cybersecurity</text>
+  </g>
+  <text x="416" y="158" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#58a6ff">View Repository &#8594;</text>
+</svg>
