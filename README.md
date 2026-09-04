@@ -8,32 +8,77 @@ Automotive CAN / UDS security · Secure firmware update (FOTA) · Embedded syste
 
 [![GitHub](https://img.shields.io/badge/GitHub-mrtclk2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrtclk2)
 &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrtclk2-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrtclk2/)
+&nbsp;
 [![Location](https://img.shields.io/badge/Istanbul-Turkey-2e2e2e?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 <br/>
 
-I build and break automotive ECU software — from secure FOTA update pipelines to CAN/UDS penetration-testing tools. Most of my work sits at the intersection of embedded firmware and automotive cybersecurity (ISO 21434 / TARA, UDS, PKI).
+Electrical & Electronics Engineering student focused on automotive cybersecurity, embedded systems and software test & validation — building secure bootloader/OTA pipelines, running CAN/UDS penetration tests, and doing threat modeling (TARA) under ISO/SAE 21434 & UNECE R155/R156.
 
 <br/>
 
-## 🛠️ Tech & Domains
+## 🛠️ Skills
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white)
+**Languages**
+![C](https://img.shields.io/badge/C-2b2d42?style=flat-square&logo=c&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-2b2d42?style=flat-square)
+![C++](https://img.shields.io/badge/C++-2b2d42?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2b2d42?style=flat-square&logo=python&logoColor=white)
+![Qt/QML](https://img.shields.io/badge/Qt%2FQML-2b2d42?style=flat-square&logo=qt&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-2b2d42?style=flat-square&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2b2d42?style=flat-square&logo=openjdk&logoColor=white)
 
-![CAN Bus](https://img.shields.io/badge/CAN%20Bus-E67E22?style=for-the-badge)
-![UDS](https://img.shields.io/badge/UDS%20%2F%20ISO--TP-E67E22?style=for-the-badge)
-![Automotive Security](https://img.shields.io/badge/Automotive%20Security-C0392B?style=for-the-badge)
-![TARA / ISO 21434](https://img.shields.io/badge/TARA%20%2F%20ISO%2021434-C0392B?style=for-the-badge)
-![PKI / HSM](https://img.shields.io/badge/PKI%20%2F%20HSM-C0392B?style=for-the-badge)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+**Embedded Systems**
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-1b998b?style=flat-square)
+![Bootloader](https://img.shields.io/badge/Bootloader-1b998b?style=flat-square)
+![Bare--metal](https://img.shields.io/badge/Bare--metal-1b998b?style=flat-square)
+![STM32](https://img.shields.io/badge/STM32-1b998b?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32--S3](https://img.shields.io/badge/ESP32--S3-1b998b?style=flat-square&logo=espressif&logoColor=white)
+![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-1b998b?style=flat-square&logo=linux&logoColor=white)
+
+**Automotive Protocols**
+![CAN Bus](https://img.shields.io/badge/CAN%20Bus-457b9d?style=flat-square)
+![UDS ISO 14229](https://img.shields.io/badge/UDS%20(ISO%2014229)-457b9d?style=flat-square)
+![ISO-TP](https://img.shields.io/badge/ISO--TP-457b9d?style=flat-square)
+![OBD-II](https://img.shields.io/badge/OBD--II-457b9d?style=flat-square)
+![UART](https://img.shields.io/badge/UART-457b9d?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-457b9d?style=flat-square)
+![I2C](https://img.shields.io/badge/I2C-457b9d?style=flat-square)
+
+**Automotive Cybersecurity**
+![ISO/SAE 21434](https://img.shields.io/badge/ISO%2FSAE%2021434-9d0208?style=flat-square)
+![UNECE R155/R156](https://img.shields.io/badge/UNECE%20R155%2FR156-9d0208?style=flat-square)
+![TARA](https://img.shields.io/badge/TARA%20%2F%20Threat%20Modeling-9d0208?style=flat-square)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-9d0208?style=flat-square)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-9d0208?style=flat-square)
+![CAN Fuzzing & Spoofing](https://img.shields.io/badge/CAN%20Fuzzing%20%26%20Spoofing-9d0208?style=flat-square)
+![Secure Boot / OTA](https://img.shields.io/badge/Secure%20Boot%20%2F%20OTA-9d0208?style=flat-square)
+![Gateway Authorization](https://img.shields.io/badge/Gateway%20Authorization-9d0208?style=flat-square)
+
+**Security & Cryptography**
+![HSM](https://img.shields.io/badge/HSM-6a4c93?style=flat-square)
+![PKI/KMS](https://img.shields.io/badge/PKI%2FKMS-6a4c93?style=flat-square)
+![AES](https://img.shields.io/badge/AES-6a4c93?style=flat-square)
+![RSA](https://img.shields.io/badge/RSA-6a4c93?style=flat-square)
+![ECDSA](https://img.shields.io/badge/ECDSA-6a4c93?style=flat-square)
+
+**Test & Validation**
+![Requirement-Based Testing](https://img.shields.io/badge/Requirement--Based%20Testing-6c757d?style=flat-square)
+![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-6c757d?style=flat-square)
+![ASPICE Traceability](https://img.shields.io/badge/ASPICE%20Traceability-6c757d?style=flat-square)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-6c757d?style=flat-square)
+
+**Tools & Platforms**
+![Vector CANalyzer/CANoe](https://img.shields.io/badge/Vector%20CANalyzer%2FCANoe-343a40?style=flat-square)
+![PeakCAN](https://img.shields.io/badge/PeakCAN-343a40?style=flat-square)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-343a40?style=flat-square)
+![Keil](https://img.shields.io/badge/Keil-343a40?style=flat-square)
+![MATLAB/Simulink](https://img.shields.io/badge/MATLAB%2FSimulink-343a40?style=flat-square&logo=simulink&logoColor=white)
+![Git](https://img.shields.io/badge/Git-343a40?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-343a40?style=flat-square&logo=linux&logoColor=white)
 
 <br/>
 
