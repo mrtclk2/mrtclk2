@@ -116,7 +116,7 @@ Secure architecture for delivering ECU firmware updates over BLE/Wi-Fi. Separate
 
 <br/>
 
-## 🧩 Additional Work (Not Yet Published)
+## 🧩 Additional Work
 
 A few projects that live outside GitHub for now:
 
