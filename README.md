@@ -16,7 +16,7 @@ Automotive CAN / UDS security · Secure firmware update (FOTA) · Embedded syste
 
 <br/>
 
-Electrical & Electronics Engineering student focused on automotive cybersecurity, embedded systems and software test & validation — building secure bootloader/OTA pipelines, running CAN/UDS penetration tests, and doing threat modeling (TARA) under ISO/SAE 21434 & UNECE R155/R156.
+Focused on automotive cybersecurity, embedded systems and software test & validation — building secure bootloader/OTA pipelines, running CAN/UDS penetration tests, and doing threat modeling (TARA) under ISO/SAE 21434 & UNECE R155/R156.
 
 <br/>
 
